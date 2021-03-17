@@ -1,10 +1,10 @@
 /*******************************************/
 /*             PERSONA.JS                  */
-/*     Datos para PERSONA TEMPLATE         */   
-/*          [DIU] UX Toolkit v1.0 2019    */                        
+/*     Datos para PERSONA TEMPLATE         */
+/*          [DIU] UX Toolkit v1.0 2019    */
 /*          ver 1.1 26/Feb/2020            */
 /*******************************************/
-    
+
 /****  README:       */
 /****  Modifica los datos para las Personas      */
 /****  v.1.1 Incluye nombre de tu grupo de prácticas (Grupo.ID), curso académico y enlace a github ***/
@@ -16,94 +16,94 @@
 
 
 angular.module("angular", [])
-	.controller("controller", ["$scope", function($scope) { 
-        $scope.Grupo_ID ="DIU3.McDiu";
-        $scope.Curso ="2020/21";
-        $scope.Github_ID ="https://github.com/pablomarga/DIU";
-        
+	.controller("controller", ["$scope", function ($scope) {
+		$scope.Grupo_ID = "DIU3.McDiu";
+		$scope.Curso = "2020/21";
+		$scope.Github_ID = "https://github.com/pablomarga/DIU";
+
 		$scope.PersonaIndex = 0;
 		$scope.Personas = [
-			{		
-                
-                
-                /*************************************/
-                /**** PRIMERA PERSONA          *******/
-                /*** Cambiar datos             *******/
-                /*************************************/
-                
-                
+			{
+
+
+				/*************************************/
+				/**** PRIMERA PERSONA          *******/
+				/*** Cambiar datos             *******/
+				/*************************************/
+
+
 				Id: 0,
 				Name: "Jose Feliciano",
-				Photo: "man.png",
+				Photo: "persona1.png",
 				Quote: "Yo no soy rico pero soy feliz con lo poco que tengo",
 				Age: 28,
-				Occupation: "Cantante",
+				Occupation: "albañil",
 				Family: "Novia desde hace 2 años",
 				Location: "Almeria",
 				Character: "Le gusta viajar y descubrir mundo",
 				PersonalityTraits: [
 					{ Name: "Introvertido/reservado Vs  Extrov/activo ", Value: 4 },
-					{ Name: "Realista/práctico  Vs    Intuición/imaginativo", Value: 1 },
-					{ Name: "Racional/analitico  Vs   Emocional/impulsivo", Value: 3 },
-					{ Name: "Flemático/apático  Vs   Colérico/visceral", Value: 5 }
-				], 
-				Goals: ["Disfrutar del tiempo libre, viajar", "Cambiar a un trabajo más estable"],
-				Frustrations: ["le gusta la tecnología, pero siempre 'llama a un amigo' para resolver problemas", "Le gustaría tener más tiempo libre y leer más"],
-				Bio: "Es de Almeria y vino a Granada para de t",
+					{ Name: "Realista/práctico  Vs    Intuición/imaginativo", Value: 3 },
+					{ Name: "Racional/analitico  Vs   Emocional/impulsivo", Value: 5 },
+					{ Name: "Flemático/apático  Vs   Colérico/visceral", Value: 2 }
+				],
+				Goals: ["Conocer mundo", "Cambiar de trabajo para así tener mas tiempo libre", "Mejorar en su uso de la tecnología"],
+				Frustrations: ["No haber viajado", "Le gustaría tener más tiempo libre y viajar", "No suele hacer casi nunca uso de la tecnología"],
+				Bio: "Siempre he sido un chico muy amable y respetuoso, pero que nunca se le han dado bien los estudios y, por lo tanto, no tengo mucha experiencia a nivel de informática ni uso de las tecnologías, ya que es algo a lo que no le tengo mucho respeto.",
 				Tech: [
 					{ Name: "TIC/Internet", Value: 2 },
-					{ Name: "Movil", Value: 2 },
+					{ Name: "Movil", Value: 3 },
 					{ Name: "RRSS", Value: 3 },
-					{ Name: "Software", Value: 2 }
-					
-				], 
-                Contextos: "LLeva un tiempo preocupado y quiere desconectar Le gustaría dar una sorpresa a sus amigos para las vacaciones",  
+					{ Name: "Software", Value: 1 }
+
+				],
+				Contextos: "Lleva demasiado tiempo sin salir de su ciudad y le gustaría ver mundo",
 				PreferredChannels: [
 					{ Name: "Publicidad Tradicional", Value: 5 },
 					{ Name: "Online & Social Media", Value: 3 },
 					{ Name: "Recomendaciones & sugerencias", Value: 2 },
-					{ Name: "Persona confianza (amigos, boca a boca)", Value: 1 }
+					{ Name: "Persona confianza (amigos, boca a boca)", Value: 5 }
 				]
 			},
-			{	
-                
-                /*************************************/
-                /**** SEGUNDA PERSONA          *******/
-                /*** Cambiar datos             *******/
-                /*************************************/
-                
-                
-				Id: 1,
-				Name: "Monica Suarez",
-				Photo: "woman.png",
-				Quote: "A quotation that captures the essence of this person's personality",
-				Age: 17,
-				Occupation: "Searching for a cure for the Empress",
-				Family: "No parents, only family are the people who raised him.",
-				Location: "The Grassy Plains of Fantasia",
-				Character: "Strong, reliable and fearless.",
+			{
+
+				/*************************************/
+				/**** SEGUNDA PERSONA          *******/
+				/*** Cambiar datos             *******/
+				/*************************************/
+
+
+				Id: 2,
+				Name: "Maria Jiménez",
+				Photo: "melodie.jpg",
+				Quote: "Si quieres cambiar el mundo, cámbiate a ti mismo",
+				Age: 36,
+				Occupation: "Trabaja en una empresa como recepcionista",
+				Family: "Padres y una hermana más pequeña de 18 años",
+				Location: "Galicia, España",
+				Character: "Fuerte y muy segura, con entusiasmo por la vida",
 				PersonalityTraits: [
-					{ Name: "Introvertido/reservado Vs  Extrov/activo ", Value: 3 },
-					{ Name: "Realista/práctico  Vs    Intuición/imaginativo", Value: 3 },
+					{ Name: "Introvertido/reservado Vs  Extrov/activo ", Value: 4 },
+					{ Name: "Realista/práctico  Vs    Intuición/imaginativo", Value: 1 },
 					{ Name: "Racional/analitico  Vs   Emocional/impulsivo", Value: 2 },
 					{ Name: "Flemático/apático  Vs   Colérico/visceral", Value: 2 }
-				], 
-				Goals: ["The goals this user hopes to achieve.", "A task that needs to be completed.", "A life goal to be reached.", "An experience to be felt."],
-				Frustrations: ["The frustrations this user would like to avoid.", "The obstacle that prevents the user from achieving their goals.", "The problems with the solutions already available.", "The product or service which does not currently exist."],
-				Bio: "The bio should be a short paragraph to describe the user journey. It should include some of their history leading up to a current use case. It may be helpful to incorporate information listed across the template and add pertinent details that may have been left out. Highlight factors of the user's personal and professional life that make this user an ideal customer of your product.",
+				],
+				Goals: ["Ser la mejor en mi trabajo", "Llevarme bien con todo el mundo", "Disfrutar con cada cosa que haga", "Que mis padres estén orgullosos"],
+				Frustrations: ["Siempre he estado interesada en las tecnologías y, aunque estudié ADE, siempre he estado en contacto con ellas. Se me da bien y tengo muchas ganas de utilizar una página web que ofrezca facilidades y, sobre todo, una interfaz agradable para el usuario y que despierte esas sensaciones que una vez tuve cuando estuve trabajando en granada."],
+				Bio: "Nací en Galicia. Desde pequeña sacaba muy buenas notas y decidí irme unos meses a trabajar a Granada. Por desgracia mi contrato se acabó y no pude disfrutar de la ciudad tanto como me hubiese gustado. La ciudad me enamoró tanto que decidí volver a ir alguna vez en mi vida.",
 				Tech: [
 					{ Name: "TIC/Internet", Value: 5 },
 					{ Name: "Mobile", Value: 3 },
 					{ Name: "RRSS", Value: 3 },
 					{ Name: "Software", Value: 5 }
-					
-				], 
-                Contextos:   "The goals this user hopes to achieve." ,
+
+				],
+				Contextos: "Ir a Granada y volverme a enamorar de la ciudad gracias a una buena página web que me haya ayudado a descubrir esta ciudad y a conocer sus mejores lugares y costumbres",
 				PreferredChannels: [
-					{ Name: "Publicidad Tradicional (Ads)", Value: 5 },
+					{ Name: "Publicidad Tradicional (Ads)", Value: 1 },
 					{ Name: "Online & Social Media", Value: 2 },
-					{ Name: "Recomendaciones & sugerencias", Value: 2 },
-					{ Name: "Persona confianza (amigos, boca a boca)", Value: 2 }
+					{ Name: "Recomendaciones & sugerencias", Value: 4 },
+					{ Name: "Persona confianza (amigos, boca a boca)", Value: 3 }
 				]
 			}
 		];
