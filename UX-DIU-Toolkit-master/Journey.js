@@ -91,56 +91,57 @@ angular.module("angular", [])
                 /***      Cambiar datos        *******/
                 /*************************************/
                 
-				Id: 1,
-				Name: "Monica Suarez",
-                Photo: "woman.png",
+                Id: 1,
+                Name: "María Jimenez",
+                Photo: "Melodie.jpg",
                 
-				 /*** PASO #1: INSPIRACION ***/ 
-                goal1: "Quiere preparar un viaje con su familia para Verano, tiene sólo 15 dias libres",
+                 /*** PASO #1: INSPIRACION ***/ 
+                goal1: "Quiere preparar un viaje a Granada para verano, en vacaciones",
                 touch1: "agenda",
                 feel1: "5",
-                con1: "Quiere ir a un pais exotico pero que tenga atracciones para niños pequeños",
+                con1: "Quiere descubrir sitios bonitos y costumbres de la ciudad",
                 ima1: "cartoon-going.png",
                 
                 /*** PASO #2: DECICION ***/ 
-                goal2: "Ir a una agencia de viajes, y decirle sus preferencias y planes",
+                goal2: "Mirar en una página web de turismo de Granada",
                 touch2: "Servicio (agencia)",
-                feel2: "4",
-                con2: "Tiene que desplazarse a agencia, explica su intenciones, le llamaran porque no hay nada interesante",
+                feel2: "45",
+                con2: "Tiene que familiarizarse con la página web, explorarla y sacarle partido",
                 ima2: "cartoon-teamthinking.png",
                 
                 /*** PASO #3: ACTUA ***/ 
                 
-                goal3: "Le llaman a los pocos días con un viaje que no le convence",
+                goal3: "Se dispone a reservar desde la página web un hotel en el que alojarse",
                 touch3: "Móvil (llamada)",
-                feel3: "2",
-                con3: "Piensa que ha perdido el tiempo",
+                feel3: "3",
+                con3: "Está emocionada pero a la misma vez asustada",
                 ima3: "cartoon-phoningangry.png",
                 
                 /*** PASO #4: OBSERVA ***/ 
                 
-                goal4: "Busca una oferta en hoteles cerca de playa y con parque atracciones",
+                goal4: "Busca sitios caros y baratos en los que comer o irse de compras",
                 touch4: "Móvil (webapp)",
                 feel4: "2",
-                con4: "No hay mucha información del alojamiento ni de lo que hay alrededor, aunque el precio está bien, va por la calle por lo que está incómoda",
+                con4: "No terminan de convencerle los precios y esperar encontrar algo más asequible",
                 ima4: "cartoon-phone-street.png",
                 
                  /*** PASO #5: ANALIZA ***/ 
                 
-                goal5: "Reserva a traves de la aplicación ",
+                goal5: "Reserva a traves de la página web",
                 touch5: "Móvil (webapp)",
                 feel5: "3",
-                con5: "Le pide muchos datos y le resulta incómodo completar formulario",
+                con5: "Le pide muchos datos y le resulta complejo e innecesario completar formulario",
                 ima5: "cartoon-phone-sitting.png",
-
+ 
                 
                 /*** PASO #6: CONCLUSION ***/ 
                 
-                goal6: "Consiguie reservar para vacaciones pero no era lo que tenía en mente",
+                goal6: "Consigue reservar habitación para un hotel en Granada en verano",
                 touch6: "Ordenador (reserva OK)",
-                feel6: "2",
-                con6: "Tendrá que buscar más información del lugar para ver que actividades ofrece y donde aparacar!",
+                feel6: "5",
+                con6: "Está emocionada porque va a visitar por fin la ciudad de sus sueños",
                 ima6: "cartoon-PChard.png",
+
                 
                 
                 
