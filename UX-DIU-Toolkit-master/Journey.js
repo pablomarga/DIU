@@ -100,14 +100,14 @@ angular.module("angular", [])
                 touch1: "agenda",
                 feel1: "5",
                 con1: "Quiere descubrir sitios bonitos y costumbres de la ciudad",
-                ima1: "cartoon-going.png",
+                ima1: "cartoon-teamthinking.png",
                 
                 /*** PASO #2: DECICION ***/ 
                 goal2: "Mirar en una página web de turismo de Granada",
                 touch2: "Servicio (agencia)",
-                feel2: "45",
+                feel2: "4",
                 con2: "Tiene que familiarizarse con la página web, explorarla y sacarle partido",
-                ima2: "cartoon-teamthinking.png",
+                ima2: "cartoon-deciding.png",
                 
                 /*** PASO #3: ACTUA ***/ 
                 
@@ -115,7 +115,7 @@ angular.module("angular", [])
                 touch3: "Móvil (llamada)",
                 feel3: "3",
                 con3: "Está emocionada pero a la misma vez asustada",
-                ima3: "cartoon-phoningangry.png",
+                ima3: "cartoon-PChard.png",
                 
                 /*** PASO #4: OBSERVA ***/ 
                 
@@ -123,7 +123,7 @@ angular.module("angular", [])
                 touch4: "Móvil (webapp)",
                 feel4: "2",
                 con4: "No terminan de convencerle los precios y esperar encontrar algo más asequible",
-                ima4: "cartoon-phone-street.png",
+                ima4: "cartoon-PCangry.png",
                 
                  /*** PASO #5: ANALIZA ***/ 
                 
@@ -140,7 +140,7 @@ angular.module("angular", [])
                 touch6: "Ordenador (reserva OK)",
                 feel6: "5",
                 con6: "Está emocionada porque va a visitar por fin la ciudad de sus sueños",
-                ima6: "cartoon-PChard.png",
+                ima6: "cartoon-PCSurprised.png",
 
                 
                 
