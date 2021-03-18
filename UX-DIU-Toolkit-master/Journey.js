@@ -19,9 +19,9 @@
 
 angular.module("angular", [])
 	.controller("controller", ["$scope", function($scope) { 
-		$scope.Grupo_ID ="DIU1.ABCDEF";
+		$scope.Grupo_ID ="DIU3.McDiu";
         $scope.Curso ="2020/21";
-        $scope.Github_ID ="https://github.com/mgea/UX-DIU-Toolkit";
+        $scope.Github_ID ="https://github.com/pablomarga/DIU";
         
 		$scope.JourneyIndex = 0;
         
@@ -34,54 +34,54 @@ angular.module("angular", [])
                 /*************************************/
                 
 				Id: 0,
-				Name: "Pedro",
-                Photo: "man.png",
+				Name: "Jose Feliciano",
+                Photo: "persona1.png",
     
                 /*** PASO #1: INSPIRACION ***/ 
-                goal1: "quiere preparar un viaje con sus amigos en Semana Santa",
-                touch1: "agenda",
+                goal1: "Habla con un amigo para ver si querría hacer un viaje a Granada",
+                touch1: "amigo",
                 feel1: "4",
                 con1: "ver cuantos días puede tener libres para organizar lugar de viaje ",
-                ima1: "cartoon-planning.png",
+                ima1: "cartoon-shaking.png",
 				
                 /*** PASO #2: DECICION ***/ 
-                goal2: "Busca en internet ofertas para esas fechas",
-                touch2: "Movil",
-                feel2: "2",
-                con2: "hay demasiada información y pierde mucho tiempo, no hay precios 'baratos'",
-                ima2: "cartoon-PCangry.png",
+                goal2: "Busca en foros para ver como puede ir",
+                touch2: "Ordenador",
+                feel2: "3",
+                con2: "hay demasiada información y se empieza saturar porque no es muy afín a las tecnologías",
+                ima2: "cartoon-PChappy.png",
                 
                 /*** PASO #3: ACTUA ***/ 
                 
-                goal3: "Decide buscar un alojamiento rural  en plasencia, donde hay procesiones y parece que hará buen tiempo",
-                touch3: "móvil (el tiempo)",
-                feel3: "3",
-                con3: "Está preocupado por el tiempo y el desplazamiento (coche y aparcamiento)",
+                goal3: "Decide buscar transporte público para moverse por Granada",
+                touch3: "móvil",
+                feel3: "1",
+                con3: "No termina de encontrar una combinación que le convenza",
                 ima3: "cartoon-phone.png",
                 
                 /*** PASO #4: OBSERVA ***/ 
                 
-                goal4: "Los amigos le recomiendan una página para escoger alojamientos",
+                goal4: "Encuentra una página que te genera las combinaciones según el origen y el destino",
                 touch4: "ordenador",
-                feel4: "4",
-                con4: "Buscar opciones en el lugar que había seleccionado, viendo precios y distancias, tiene que ver si hay aparcamiento fácil",
+                feel4: "2",
+                con4: "No sabe muy bien que es lo más importante que visitar",
                 ima4: "cartoon-PCtyping.png",
                 
                  /*** PASO #5: ANALIZA ***/ 
                 
-                goal5: "Se encuentra 3 opciones que encajan en sus preferencias",
-                touch5: "móvil (whatsapp)",
-                feel5: "2",
-                con5: "Llama a sus amigos (whatsapp no responen) para ver cual es su preferencia, tienen que reservar rápido por los precios",
+                goal5: "Decide llamar por teléfono a una agencia de viajes para que le ayude",
+                touch5: "móvil",
+                feel5: "3",
+                con5: "Llama a un amigo suyo para ver si quiere unirse pero no le contesta",
                 ima5: "cartoon-phoning.png",
                 
                 
                 /*** PASO #6: CONCLUSION ***/ 
                 
-                goal6: "Consigue reservar, otro año se encarga otro!",
+                goal6: "Consigue organizar su viaje, solo que da que llegue el viernes",
                 touch6: "ordenador",
-                feel6: "3",
-                con6: "algunos amigos no confirmaron por lo que tuvo que seleccionar reserva con posibilidad de cancelación",
+                feel6: "4",
+                con6: "Ve que puede que llueva pero no le importa, lo importante es viajar",
                 ima6: "cartoon-resting.png",
                 
 			},
@@ -93,7 +93,7 @@ angular.module("angular", [])
                 
                 Id: 1,
                 Name: "María Jimenez",
-                Photo: "Melodie.jpg",
+                Photo: "melodie.jpg",
                 
                  /*** PASO #1: INSPIRACION ***/ 
                 goal1: "Quiere preparar un viaje a Granada para verano, en vacaciones",
