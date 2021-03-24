@@ -19,7 +19,7 @@ Tabla de comparativas:
 |EMPRESAS                        | Granada Direct  | TurGranada | 101 viajes     | GranadaInfo   
 | :------:                       | :------:        | :------:   |  :------:      | :------:   | 
 | Consejos                       | SI              |  SI        |     SI         | NO         | 
-| Viajar con ni;os               | SI              |  SI        |     NO         | SI         | 
+| Viajar con niños               | SI              |  SI        |     NO         | SI         | 
 | Mejores restaurantes           | SI              |  NO        |     SI         | SI         |
 | Sitios para comprar            | SI              |  NO        |     NO         | SI         | 
 | Transporte                     | NO              |  SI        |     SI         | SI         | 
