@@ -1,6 +1,6 @@
 ## DIU - Practica 1.
 
-
+La página elegida ha sido [Granada info](https://www.granada.info/).
 
 - Desk research: Análisis Competencia.
 
