@@ -111,34 +111,38 @@ Finalizamos con el footer.
 
 ![Metodo UX](img/menu.png)
 
-#### 2.Aside.
+#### 2.Login.
+
+![Metodo UX](img/inicio_sesion.png)
+
+#### 3.Aside.
 
 ![Metodo UX](img/aside.png)
 
-#### 3.Búsqueda de eventos.
+#### 4.Búsqueda de eventos.
 
 ![Metodo UX](img/busqueda_eventos.png)
 
-#### 4.Consulta de establecimientos.
+#### 5.Consulta de establecimientos.
 
 ![Metodo UX](img/consulta-establecimientos.png)
 
-#### 5.Mis eventos.
+#### 6.Mis eventos.
 
 ![Metodo UX](img/mis_eventos.png)
 
-#### 6.Notificaciones.
+#### 7.Notificaciones.
 
 ![Metodo UX](img/notificaciones.png)
 
-#### 7.Calendario.
+#### 8.Calendario.
 
 ![Metodo UX](img/calendario.png)
 
-#### 8.Perfil.
+#### 9.Perfil.
 
 ![Metodo UX](img/perfil.png)
 
-#### 9.Ajustes.
+#### 10.Ajustes.
 
 ![Metodo UX](img/ajustes.png)
