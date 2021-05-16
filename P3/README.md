@@ -47,6 +47,12 @@ Algunos iconos de los bocetos han sido sustituidos debido a los nuevos diseños.
 
 ![Método UX](img/cambio_iconos.png)
 
+## Mockup
+
+
+https://user-images.githubusercontent.com/46006326/118402470-4841ea00-b66a-11eb-821d-3724c7bdb5fe.mp4
+
+
 ## Valoración del equipo sobre la realización de esta práctica o los problemas surgidos
 
 La realización de esta práctica nos ha hecho ver una manera distinta del proceso de desarrollo de una aplicación ya que antes principalmente nos centrabamos en el apartado más funcional como programadores. En consecuencia creemos que se ha notado la falta de experiencia a la hora del diseño de la misma. Por eso mismo es muy importatne que una vez desarrollada y lanzada la aplicación actualizarla en función del feedback de los usuarios e implementando nuevas caracteristicas a la misma.
