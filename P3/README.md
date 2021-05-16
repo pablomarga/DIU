@@ -47,10 +47,15 @@ Algunos iconos de los bocetos han sido sustituidos debido a los nuevos diseños.
 
 ![Método UX](img/cambio_iconos.png)
 
+
 ## Mockup
 
-
 https://user-images.githubusercontent.com/46006326/118402470-4841ea00-b66a-11eb-821d-3724c7bdb5fe.mp4
+
+## Video Presentacion
+
+https://user-images.githubusercontent.com/46006326/118403054-ef278580-b66c-11eb-8724-e7ce6aeeb04b.mp4
+
 
 
 ## Valoración del equipo sobre la realización de esta práctica o los problemas surgidos
