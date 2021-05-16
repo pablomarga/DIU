@@ -4,22 +4,17 @@ Prácticas Diseño Interfaces de Usuario 2020-21 (Tema: Turismo)
 Grupo: DIU3_McDiu.  Curso: 2020/21 
 Updated: 3/3/2021
 
-Proyecto: 
->>> Decida el nombre corto de su propuesta en la práctica 2 
+Proyecto: McGranada
 
-Descripción: 
+Descripción: Aplicación para buscar planes en Granada
 
->>> Describa la idea de su producto en la práctica 2 
-
-Logotipo: 
->>> Opcionalmente si diseña un logotipo para su producto en la práctica 3 pongalo aqui
+Logotipo: ![Logotipo](./P3/logos/logo_definitivo.png)
 
 Miembros
  * :bust_in_silhouette:   Pablo Martínez García     :octocat:     
  * :bust_in_silhouette:   Fernando Benavides Ruiz   :octocat:
 
 ----- 
-
 
 
 
@@ -30,7 +25,7 @@ Miembros
 ![Método UX](img/Competitive.png) 1.a Competitive Analysis
 -----
 
->>> Describe brevemente características de las aplicaciones que tienes asignadas, y por qué has elegido una de ellas (150-300 caracteres) 
+>>> El objetivo de nuestra aplicación es mostrar planes alternativos a visitas de monumentos y centrarnos más en eventos y locales que puedan interesar. Hemos tomado como referencia Granada info ya que es una de las webs más completas relacionada con el turismo en la ciudad
 
 ![Método UX](img/Persona.png) 1.b Persona
 -----
@@ -41,7 +36,19 @@ Miembros
 ----
 
 
->>> Comenta brevemente porqué has escogido estas dos experiencias de usuario (y si consideras que son habituales) (80-150 caracteres) 
+>>> Elegimos a personas las cuales visitaban Granada por primera vez o tras un largo periodo de tiempo, pudiendo asi valorar las necesidades que pudieran tener.
+
+![Jose](https://user-images.githubusercontent.com/46006326/111918094-c0819a00-8a83-11eb-9475-af46a7c80b58.png)
+![Maria](https://user-images.githubusercontent.com/46006326/111918096-c37c8a80-8a83-11eb-89f4-6c99c1d3f796.png)
+
+![Método UX](img/JourneyMap.png) 1.c User Journey Map
+----
+
+>>> Siguiendo el punto anterior vimos el proceso que tenían ambas personas a la hora de realizar dicho viaje y como organizar las cosas que querian hacer una vez llegaran.
+
+![HISTOJOSE](https://user-images.githubusercontent.com/46006326/111918453-697cc480-8a85-11eb-890c-a80c6af8b0b3.png)
+
+![HISTOMARIA](https://user-images.githubusercontent.com/46006326/111918455-6b468800-8a85-11eb-9a34-52c2432e25ee.png)
 
 ![Método UX](img/usabilityReview.png) 1.d Usability Review
 ----
