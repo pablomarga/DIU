@@ -123,7 +123,9 @@ Para más información [pulse aquí](https://github.com/pablomarga/DIU/tree/main
 
 ## ![Método UX](img/mockup.png) 3.d Mockup
 
-![Mockup](./P3/vid/McGranada.mp4)
+
+https://user-images.githubusercontent.com/46006326/118402312-ac17e300-b669-11eb-87fd-da0ead9cba8a.mp4
+
 
 ## ![Método UX](img/caseStudy.png) 3.e ¿My UX-Case Study?
 
