@@ -47,10 +47,7 @@ Miembros
 > > >
 > > > > Se deben incluir claramente los siguientes elementos
 > > >
-> > > - Enlace al documento:
-
-      Ver [PDF](https://github.com/pablomarga/DIU/tree/main/P1/Usability-review.pdf)
-
+> > > - Enlace al documento:   Ver [PDF](https://github.com/pablomarga/DIU/tree/main/P1/Usability-review.pdf)
 > > > - Valoración final (numérica): 66
 > > > - Comentario sobre la valoración: Nuestra página web cumple perfectamente con su objetivo: mostrar al usuario de una manera clara cuáles son las mejores opciones si quieres ir de viaje a granada, tanto en hoteles, rutas, tiendas para compras, sitios para comer…
 La página web responde de una manera rápida y ofrece gran variedad de opciones (reservar hoteles, rutas, restaurantes, etc…). Sin embargo, no aparece la posibilidad de viajar con niños, punto muy en contra para las familias. Además, no aparecen feedbacks, lo que hace poco fiable la información o ayuda que nos puede llegar a ofrecer este sitio web, ya que la visión de otros usuarios es clave. Cuenta con varios atajos para acceder tanto a hoteles, restaurantes, etc… Esto puede ser de gran ayuda
