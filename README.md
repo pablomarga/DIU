@@ -28,10 +28,6 @@ Miembros
 
 ## ![Método UX](img/Persona.png) 1.b Persona
 
-> > > Comenta brevemente porqué has seleccionado a esas personas y sube una captura de pantalla de su ficha (80-150 caracteres)
-
-## ![Método UX](img/JourneyMap.png) 1.c User Journey Map
-
 > > > Elegimos a personas las cuales visitaban Granada por primera vez o tras un largo periodo de tiempo, pudiendo asi valorar las necesidades que pudieran tener.
 
 ![Jose](https://user-images.githubusercontent.com/46006326/111918094-c0819a00-8a83-11eb-9475-af46a7c80b58.png)
@@ -49,7 +45,7 @@ Miembros
 
 > > > Revisión de usabilidad: (toma los siguientes documentos de referncia y verifica puntos de verificación de usabilidad
 > > >
-> > > > SE deben incluir claramente los siguientes elementos
+> > > > Se deben incluir claramente los siguientes elementos
 > > >
 > > > - Enlace al documento:
 
