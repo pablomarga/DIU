@@ -122,8 +122,9 @@ https://user-images.githubusercontent.com/46006326/118402312-ac17e300-b669-11eb-
 
 ## ![Método UX](img/caseStudy.png) 3.e ¿My UX-Case Study?
 
-> > > Publicar my Case Study en Github..
-> > > Documente y resuma el diseño de su producto en forma de video de 90 segundos aprox
+
+https://user-images.githubusercontent.com/46006326/118403017-c3a49b00-b66c-11eb-9c66-6966d0b59abe.mp4
+
 
 ## Paso 4. Evaluación
 
