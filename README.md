@@ -26,13 +26,9 @@ Miembros
 
 > > > El objetivo de nuestra aplicación es mostrar planes alternativos a visitas de monumentos y centrarnos más en eventos y locales que puedan interesar. Hemos tomado como referencia Granada info ya que es una de las webs más completas relacionada con el turismo en la ciudad
 
-## ![Método UX](img/Persona.png) 1.b Persona
+## ![Método UX](img/JourneyMap.png) 1.b Personas
 
-> > > Comenta brevemente porqué has seleccionado a esas personas y sube una captura de pantalla de su ficha (80-150 caracteres)
-
-## ![Método UX](img/JourneyMap.png) 1.c User Journey Map
-
-> > > Elegimos a personas las cuales visitaban Granada por primera vez o tras un largo periodo de tiempo, pudiendo asi valorar las necesidades que pudieran tener.
+> > > Elegimos a personas las cuales visitaban Granada por primera vez o tras un largo periodo de tiempo, pudiendo asi valorar las necesidades que pudieran tener. Por ello tenemos a Jose un joven con ganas de ver mundo y a María una mujer que trabajó en Granada pero no se pudo quedar todo el tiempo que quería.
 
 ![Jose](https://user-images.githubusercontent.com/46006326/111918094-c0819a00-8a83-11eb-9475-af46a7c80b58.png)
 ![Maria](https://user-images.githubusercontent.com/46006326/111918096-c37c8a80-8a83-11eb-89f4-6c99c1d3f796.png)
