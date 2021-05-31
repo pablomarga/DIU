@@ -28,6 +28,10 @@ Miembros
 
 ## ![Método UX](img/Persona.png) 1.b Persona
 
+> > > Comenta brevemente porqué has seleccionado a esas personas y sube una captura de pantalla de su ficha (80-150 caracteres)
+
+## ![Método UX](img/JourneyMap.png) 1.c User Journey Map
+
 > > > Elegimos a personas las cuales visitaban Granada por primera vez o tras un largo periodo de tiempo, pudiendo asi valorar las necesidades que pudieran tener.
 
 ![Jose](https://user-images.githubusercontent.com/46006326/111918094-c0819a00-8a83-11eb-9475-af46a7c80b58.png)
@@ -47,10 +51,13 @@ Miembros
 > > >
 > > > > Se deben incluir claramente los siguientes elementos
 > > >
-> > > - Enlace al documento:   Ver [PDF](https://github.com/pablomarga/DIU/tree/main/P1/Usability-review.pdf)
+> > > - Enlace al documento:
+
+      Ver [PDF](https://github.com/pablomarga/DIU/tree/main/P1/Usability-review.pdf)
+
 > > > - Valoración final (numérica): 66
 > > > - Comentario sobre la valoración: Nuestra página web cumple perfectamente con su objetivo: mostrar al usuario de una manera clara cuáles son las mejores opciones si quieres ir de viaje a granada, tanto en hoteles, rutas, tiendas para compras, sitios para comer…
-La página web responde de una manera rápida y ofrece gran variedad de opciones (reservar hoteles, rutas, restaurantes, etc…). Sin embargo, no aparece la posibilidad de viajar con niños, punto muy en contra para las familias. Además, no aparecen feedbacks, lo que hace poco fiable la información o ayuda que nos puede llegar a ofrecer este sitio web, ya que la visión de otros usuarios es clave. Cuenta con varios atajos para acceder tanto a hoteles, restaurantes, etc… Esto puede ser de gran ayuda
+> > >   La página web responde de una manera rápida y ofrece gran variedad de opciones (reservar hoteles, rutas, restaurantes, etc…). Sin embargo, no aparece la posibilidad de viajar con niños, punto muy en contra para las familias. Además, no aparecen feedbacks, lo que hace poco fiable la información o ayuda que nos puede llegar a ofrecer este sitio web, ya que la visión de otros usuarios es clave. Cuenta con varios atajos para acceder tanto a hoteles, restaurantes, etc… Esto puede ser de gran ayuda
 
 |          ASPECTOS POSITIVOS           |             ASPECTOS NEGATIVOS              |
 | :-----------------------------------: | :-----------------------------------------: |
@@ -64,28 +71,28 @@ La página web responde de una manera rápida y ofrece gran variedad de opciones
 
 ## ![Método UX](img/feedback-capture-grid.png) 2.a Feedback Capture Grid
 
-En la malla receptora hemos ido recopilando algunas de las características que vimos analizando la página en la práctica 1, con eso vimos  algunas cosas a mejorar y sugerencias para nuevas funcionalidades.
-|                                 Interesante                                 |                                           Críticas                                            |
+En la malla receptora hemos ido recopilando algunas de las características que vimos analizando la página en la práctica 1, con eso vimos algunas cosas a mejorar y sugerencias para nuevas funcionalidades.
+| Interesante | Críticas |
 | :-------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------: |
-|                        1. Interfaz sencilla y clara.                        |             1. Las tiendas para ir a comprar que ofrece la web son caros ciudad.              |
-|                        2. Gran variedad de opciones.                        |                       2. No están actualizados los horarios por covid.                        |
+| 1. Interfaz sencilla y clara. | 1. Las tiendas para ir a comprar que ofrece la web son caros ciudad. |
+| 2. Gran variedad de opciones. | 2. No están actualizados los horarios por covid. |
 | 3. Ofrece muchas combinaciones de transporte público para ir por la ciudad. | 3. No está claro cuál de los sitios que presenta la web es el más característico de la ciudad |
-|        4. La página web es segura y cuenta con protección de datos.         |                             4. Falta de excursiones por la ciudad                             |
-|                                **Preguntas**                                |                                       **Nuevas ideas**                                        |
-|                              1. Modo nocturno                               |                         1. Añadir un comparador de coches de alquiler                         |
-|                             2. Chat para dudas.                             |                              2. Promociones por bonos o ventajas                              |
-|                      3. Opciones de airbnb en la web.                       |                          3. Promoción por número de amigos traídos.                           |
-|                  4. Bar tipico dónde probar la gastronomia                  |                                       4. Modo premium.                                        |
-|            5. Mas detalles en cuanto a las paradas de los buses.            |                       5. Penalización y bonificación por la asistencia.                       |
-
+| 4. La página web es segura y cuenta con protección de datos. | 4. Falta de excursiones por la ciudad |
+| **Preguntas** | **Nuevas ideas** |
+| 1. Modo nocturno | 1. Añadir un comparador de coches de alquiler |
+| 2. Chat para dudas. | 2. Promociones por bonos o ventajas |
+| 3. Opciones de airbnb en la web. | 3. Promoción por número de amigos traídos. |
+| 4. Bar tipico dónde probar la gastronomia | 4. Modo premium. |
+| 5. Mas detalles en cuanto a las paradas de los buses. | 5. Penalización y bonificación por la asistencia. |
 
 ## ![Método UX](img/Sitemap.png) 2.b Tasks analysis
 
-Entre las dos posibilidades nos hemos decidido por por hacer la matriz de tareas para analizar los usuarios que van a usar la aplicación y poder saber la frecuencia con la que tendrían que usar cada funcionalidad. 
+Entre las dos posibilidades nos hemos decidido por por hacer la matriz de tareas para analizar los usuarios que van a usar la aplicación y poder saber la frecuencia con la que tendrían que usar cada funcionalidad.
 
 Para ver la matriz de usuario y tareas [pulse aquí](https://github.com/pablomarga/DIU/tree/master/P2)
 
 ## ![Método UX](img/labelling.png) 2.c Labelling
+
 Hemos seleccionado una serie de iconos para acceder a los diferentes apartados de la aplicación y que sean entendibles para el usuario
 Para ver los distintos iconos que vamos a utilizar [pulse aquí](https://github.com/pablomarga/DIU/tree/main/P2#labelling)
 
@@ -94,6 +101,7 @@ Para ver los distintos iconos que vamos a utilizar [pulse aquí](https://github.
 En este apartado hemos desarrollado una serie de bocetos de las distintas partes de la aplicación. Primero realizamos unos diagrama de flujo y tras este comenzamos con los bocetos.
 
 Para ver los diagramas y su correspondiente explicación [pulse aquí](https://github.com/pablomarga/DIU/tree/main/P2#1men%C3%BA)
+
 ## Paso 3. Mi UX-Case Study (diseño)
 
 ## ![Método UX](img/moodboard.png) 3.a Moodboard
@@ -111,20 +119,16 @@ Puede consultar nuestra langing page [aqui](https://mcgranada.kickoffpages.com) 
 Se trata de elementos que facilitan la usabilidad y legibilidad de la app y si están bien empleados repercutirán de forma positiva sobre nuestra app de cara al usuario.
 Al tratarse de una aplicación en la que sus principales usuario serán jovenes tratamos de elegir unos colores que fuese acorde a eso. Por ello optamos por algunos colores que estén de moda entre esa clase de personas como puede ser colores oscuros para el fondo de la app combinados con algunos colores más llamativos para resaltar todas las opciones que ofrecemos.
 
-
 Para más información [pulse aquí](https://github.com/pablomarga/DIU/tree/main/P3#guideliness)
 
 ## ![Método UX](img/mockup.png) 3.d Mockup
 
-
-https://user-images.githubusercontent.com/46006326/118402312-ac17e300-b669-11eb-87fd-da0ead9cba8a.mp4
-
+![Mockup](./P3/vid/McGranada.mp4)
 
 ## ![Método UX](img/caseStudy.png) 3.e ¿My UX-Case Study?
 
-
-https://user-images.githubusercontent.com/46006326/118403017-c3a49b00-b66c-11eb-9c66-6966d0b59abe.mp4
-
+> > > Publicar my Case Study en Github..
+> > > Documente y resuma el diseño de su producto en forma de video de 90 segundos aprox
 
 ## Paso 4. Evaluación
 
@@ -159,6 +163,8 @@ https://user-images.githubusercontent.com/46006326/118403017-c3a49b00-b66c-11eb-
 
 ## Conclusión final / Valoración de las prácticas
 
-> > > (90-150 palabras) Opinión del proceso de desarrollo de diseño siguiendo metodología UX y valoración (positiva /negativa) de los resultados obtenidos
+Como conclusión final, estas prácticas nos han resultado bastante útiles a la hora del desarrollo de una aplicación. Hemos aprendido qué elementos habría que diseñar y cuáles no, partes del proceso de desarrollo de la aplicación o web y de diseño de interfaz. Nos ha parecido útil a la hora de posibles futuros proyectos o trabajos, además de lo útil que resulta un trabajo colectivo y aprender de tus errores y de los de tu compañero también.
+No habíamos pensado que una aplicación era tan compleja a la hora de elegir colores, qué elementos y cómo van en la portada, footer, aside, etc. Además de tener en cuenta la accesibilidad de ésta.
+Creo que hemos mejorado la manera en la que enfocarnos a la hora de desarrollar una web/app gracias a esta asignatura y nos va a resultar útil seguro para un futuro.
 
 # DIU
