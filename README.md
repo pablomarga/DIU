@@ -119,12 +119,11 @@ Para más información [pulse aquí](https://github.com/pablomarga/DIU/tree/main
 
 ## ![Método UX](img/mockup.png) 3.d Mockup
 
-![Mockup](./P3/vid/McGranada.mp4)
-
+https://user-images.githubusercontent.com/46006326/118402470-4841ea00-b66a-11eb-821d-3724c7bdb5fe.mp4
 ## ![Método UX](img/caseStudy.png) 3.e ¿My UX-Case Study?
 
-> > > Publicar my Case Study en Github..
-> > > Documente y resuma el diseño de su producto en forma de video de 90 segundos aprox
+https://user-images.githubusercontent.com/46006326/118403054-ef278580-b66c-11eb-8724-e7ce6aeeb04b.mp4
+
 
 ## Paso 4. Evaluación
 
