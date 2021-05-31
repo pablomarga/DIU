@@ -118,10 +118,10 @@ Para más información [pulse aquí](https://github.com/pablomarga/DIU/tree/main
 ## ![Método UX](img/mockup.png) 3.d Mockup
 
 https://user-images.githubusercontent.com/46006326/118402470-4841ea00-b66a-11eb-821d-3724c7bdb5fe.mp4
+
 ## ![Método UX](img/caseStudy.png) 3.e ¿My UX-Case Study?
 
 https://user-images.githubusercontent.com/46006326/118403054-ef278580-b66c-11eb-8724-e7ce6aeeb04b.mp4
-
 
 ## Paso 4. Evaluación
 
@@ -133,12 +133,12 @@ https://user-images.githubusercontent.com/46006326/118403054-ef278580-b66c-11eb-
 
 > > > Seleccione 4 personas ficticias. Exprese las ideas de posibles situaciones conflictivas de esa persona en las propuestas evaluadas. Asigne dos a Caso A y 2 al caso B
 
-| Usuarios     | Sexo/Edad | Ocupación  | Exp.TIC | Personalidad | Plataforma | TestA/B |
-| ------------ | --------- | ---------- | ------- | ------------ | ---------- | ------- |
-| User1's name | H / 18    | Estudiante | Media   | Introvertido | Web.       | A       |
-| User2's name | H / 18    | Estudiante | Media   | Timido       | Web        | A       |
-| User3's name | M / 35    | Abogado    | Baja    | Emocional    |  móvil     | B       |
-| User4's name | H / 18    | Estudiante | Media   | Racional     |  Web       | B       |
+| Usuarios | Sexo/Edad | Ocupación                   | Exp.TIC | Personalidad | Plataforma | TestA/B |
+| -------- | --------- | --------------------------- | ------- | ------------ | ---------- | ------- |
+| Antonio  | H / 55    | Empresario                  | Media   | Feliz        | Móvil      | A       |
+| Juan     | H / 24    | Estudiante                  | Alta    | Estresado    | Web        | A       |
+| Maria    | M / 75    | Jubilada                    | Baja    | Miedo        | Web        | B       |
+| Alberto  | H / 33    | Trabajador con discapacitad | Media   | Racional     |  Web       | B       |
 
 ## ![Método UX](img/Survey.png). 4.c Cuestionario SUS
 
@@ -159,5 +159,3 @@ https://user-images.githubusercontent.com/46006326/118403054-ef278580-b66c-11eb-
 Como conclusión final, estas prácticas nos han resultado bastante útiles a la hora del desarrollo de una aplicación. Hemos aprendido qué elementos habría que diseñar y cuáles no, partes del proceso de desarrollo de la aplicación o web y de diseño de interfaz. Nos ha parecido útil a la hora de posibles futuros proyectos o trabajos, además de lo útil que resulta un trabajo colectivo y aprender de tus errores y de los de tu compañero también.
 No habíamos pensado que una aplicación era tan compleja a la hora de elegir colores, qué elementos y cómo van en la portada, footer, aside, etc. Además de tener en cuenta la accesibilidad de ésta.
 Creo que hemos mejorado la manera en la que enfocarnos a la hora de desarrollar una web/app gracias a esta asignatura y nos va a resultar útil seguro para un futuro.
-
-# DIU
