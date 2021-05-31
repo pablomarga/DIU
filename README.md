@@ -47,9 +47,7 @@ Miembros
 > > >
 > > > > Se deben incluir claramente los siguientes elementos
 > > >
-> > > - Enlace al documento:
-
-      Ver [PDF](https://github.com/pablomarga/DIU/tree/main/P1/Usability-review.pdf)
+> > > - Enlace al documento: Ver [PDF](https://github.com/pablomarga/DIU/tree/main/P1/Usability-review.pdf)
 
 > > > - Valoración final (numérica): 66
 > > > - Comentario sobre la valoración: Nuestra página web cumple perfectamente con su objetivo: mostrar al usuario de una manera clara cuáles son las mejores opciones si quieres ir de viaje a granada, tanto en hoteles, rutas, tiendas para compras, sitios para comer…
