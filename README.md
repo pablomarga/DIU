@@ -28,10 +28,6 @@ Miembros
 
 ## ![Método UX](img/Persona.png) 1.b Persona
 
-> > > Comenta brevemente porqué has seleccionado a esas personas y sube una captura de pantalla de su ficha (80-150 caracteres)
-
-## ![Método UX](img/JourneyMap.png) 1.c User Journey Map
-
 > > > Elegimos a personas las cuales visitaban Granada por primera vez o tras un largo periodo de tiempo, pudiendo asi valorar las necesidades que pudieran tener.
 
 ![Jose](https://user-images.githubusercontent.com/46006326/111918094-c0819a00-8a83-11eb-9475-af46a7c80b58.png)
@@ -49,12 +45,9 @@ Miembros
 
 > > > Revisión de usabilidad: (toma los siguientes documentos de referncia y verifica puntos de verificación de usabilidad
 > > >
-> > > > SE deben incluir claramente los siguientes elementos
+> > > > Se deben incluir claramente los siguientes elementos
 > > >
-> > > - Enlace al documento:
-
-      Ver [PDF](https://github.com/pablomarga/DIU/tree/main/P1/Usability-review.pdf)
-
+> > > - Enlace al documento:   Ver [PDF](https://github.com/pablomarga/DIU/tree/main/P1/Usability-review.pdf)
 > > > - Valoración final (numérica): 66
 > > > - Comentario sobre la valoración: Nuestra página web cumple perfectamente con su objetivo: mostrar al usuario de una manera clara cuáles son las mejores opciones si quieres ir de viaje a granada, tanto en hoteles, rutas, tiendas para compras, sitios para comer…
 La página web responde de una manera rápida y ofrece gran variedad de opciones (reservar hoteles, rutas, restaurantes, etc…). Sin embargo, no aparece la posibilidad de viajar con niños, punto muy en contra para las familias. Además, no aparecen feedbacks, lo que hace poco fiable la información o ayuda que nos puede llegar a ofrecer este sitio web, ya que la visión de otros usuarios es clave. Cuenta con varios atajos para acceder tanto a hoteles, restaurantes, etc… Esto puede ser de gran ayuda
@@ -123,12 +116,15 @@ Para más información [pulse aquí](https://github.com/pablomarga/DIU/tree/main
 
 ## ![Método UX](img/mockup.png) 3.d Mockup
 
-![Mockup](./P3/vid/McGranada.mp4)
+
+https://user-images.githubusercontent.com/46006326/118402312-ac17e300-b669-11eb-87fd-da0ead9cba8a.mp4
+
 
 ## ![Método UX](img/caseStudy.png) 3.e ¿My UX-Case Study?
 
-> > > Publicar my Case Study en Github..
-> > > Documente y resuma el diseño de su producto en forma de video de 90 segundos aprox
+
+https://user-images.githubusercontent.com/46006326/118403017-c3a49b00-b66c-11eb-9c66-6966d0b59abe.mp4
+
 
 ## Paso 4. Evaluación
 
@@ -160,19 +156,6 @@ Para más información [pulse aquí](https://github.com/pablomarga/DIU/tree/main
 > > Añadir report de usabilidad para práctica B (la de los compañeros)
 
 > > > Valoración personal
-
-## Paso 5. Evaluación de Accesibilidad
-
-## ![Método UX](img/Accesibility.png) 5.a Accesibility evaluation Report
-
-> > > Indica qué pretendes evaluar (de accesibilidad) sobre qué APP y qué resultados has obtenido
-
-> > > 5.a) Evaluación de la Accesibilidad (con simuladores o verificación de WACG)
-> > > 5.b) Uso de simuladores de accesibilidad
-
-> > > (uso de tabla de datos, indicar herramientas usadas)
-
-> > > 5.c Breve resumen del estudio de accesibilidad (de práctica 1) y puntos fuertes y de mejora de los criterios de accesibilidad de tu diseño propuesto en Práctica 4.
 
 ## Conclusión final / Valoración de las prácticas
 
