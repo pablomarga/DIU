@@ -43,7 +43,7 @@ Se ha realizado un cuestionario SUS para evaluar tanto la usabilidad de la Web d
 
 El documento con el informe de usabilidad para la web del grupo `PCMasterRace` se puede visualizar [aqui](DIU_report-template-usability-testOK_3.pdf)
 
-**Conclusión**
+## 4.e Conclusiones
 
 No se entiende del todo el objetivo de la página web. Permite organizar tus viajes, eso está bien, pero solo permite elegir destino, punto de partida y se puede elegir vehículo de transporte al parecer, pero no deja claro en qué momento. No entiendo si hay más funcionalidad en cuanto a la hora de crear tu viaje, no deja claro si puedes añadir información (hay un botón pero no está claro). Además, puedes valorar otros viajes, pero no le veo el sentido real de para qué quieres valorar un viaje si no hay información aparte de la que ya hemos comentado.
 
