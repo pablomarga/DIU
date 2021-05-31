@@ -127,11 +127,15 @@ https://user-images.githubusercontent.com/46006326/118403054-ef278580-b66c-11eb-
 
 ## ![Método UX](img/ABtesting.png) 4.a Caso asignado
 
-> > > Breve descripción del caso asignado con enlace a su repositorio Github
+- Caso: AllTrip
+- Github: https://github.com/sabufu/DIU21
+
+El caso asignado consiste en una página web para la organización y planificación de viajes según los intereses del usuario, con valoraciones hacia viajes de otros usuarios..
+
+La aplicación web permite crear viajes personalizables y compartirlos con el resto de usuario para que te lo puedan valorar e incluso realizar el mismo viaje.
+
 
 ## ![Método UX](img/usability-testing.png) 4.b User Testing
-
-> > > Seleccione 4 personas ficticias. Exprese las ideas de posibles situaciones conflictivas de esa persona en las propuestas evaluadas. Asigne dos a Caso A y 2 al caso B
 
 | Usuarios | Sexo/Edad | Ocupación                   | Exp.TIC | Personalidad | Plataforma | TestA/B |
 | -------- | --------- | --------------------------- | ------- | ------------ | ---------- | ------- |
@@ -142,17 +146,11 @@ https://user-images.githubusercontent.com/46006326/118403054-ef278580-b66c-11eb-
 
 ## ![Método UX](img/Survey.png). 4.c Cuestionario SUS
 
-> > > Usaremos el **Cuestionario SUS** para valorar la satisfacción de cada usuario con el diseño (A/B) realizado. Para ello usamos la [hoja de cálculo](https://github.com/mgea/DIU19/blob/master/Cuestionario%20SUS%20DIU.xlsx) para calcular resultados sigiendo las pautas para usar la escala SUS e interpretar los resultados
-> > > http://usabilitygeek.com/how-to-use-the-system-usability-scale-sus-to-evaluate-the-usability-of-your-website/)
-> > > Para más información, consultar aquí sobre la [metodología SUS](https://cui.unige.ch/isi/icle-wiki/_media/ipm:test-suschapt.pdf)
-
-> > > Adjuntar captura de imagen con los resultados + Valoración personal
+![Cuestionario](./P4/Resultados-cuestionario-SUS.png)
 
 ## ![Método UX](img/usability-report.png) 4.d Usability Report
 
-> > Añadir report de usabilidad para práctica B (la de los compañeros)
-
-> > > Valoración personal
+El informe de usabilidad lo puede consultar [aqui](./P4/DIU_report-template-usability-testOK_3.pdf).
 
 ## Conclusión final / Valoración de las prácticas
 
