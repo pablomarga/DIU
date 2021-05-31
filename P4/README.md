@@ -16,12 +16,12 @@ Los perfiles de los cuatro usuarios que han realizado el test son los siguientes
 - María, madre y abuela de 75 años. Jubilada. Sus aficiones son ver telenovelas y cotilleos en la tele y mirar por la ventana. No entiende mucho de tecnología y se siente un poco insegura al respecto.
 - Alberto, 33 años. Tiene problemas de visión (degeneración muscular) . Trabaja en la ONCE. Su trato con la tecnología es escaso, y se siente asqueado e incluso cabreado cuando tiene que usarla también debido a su enfermedad que le dificulta su uso.
 
-| Usuarios  | Sexo/Edad | Ocupación  | Exp.TIC | Personalidad | Plataforma | TestA/B |
-| --------- | --------- | ---------- | ------- | ------------ | ---------- | ------- |
-| María     | M / 18    | Estudiante | Media   | Extrovertida | App        | A       |
-| Esperanza | M / 67    | Jubilada   | Baja    | Jovial       | App        | A       |
-| Jose      | H / 23    | Estudiante | Alta    | Tranquila    | Web        | B       |
-| Sonia     | M / 45    | Empresaria | Media   | Racional     | Web        | B       |
+| Usuarios | Sexo/Edad | Ocupación                   | Exp.TIC | Personalidad | Plataforma | TestA/B |
+| -------- | --------- | --------------------------- | ------- | ------------ | ---------- | ------- |
+| Antonio  | H / 55    | Empresario                  | Media   | Feliz        | Móvil      | A       |
+| Juan     | H / 24    | Estudiante                  | Alta    | Estresado    | Web        | A       |
+| Maria    | M / 75    | Jubilada                    | Baja    | Miedo        | Web        | B       |
+| Alberto  | H / 33    | Trabajador con discapacitad | Media   | Racional     |  Web       | B       |
 
 ## 4.c Cuestionario SUS
 
