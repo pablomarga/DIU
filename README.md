@@ -142,7 +142,7 @@ La aplicación web permite crear viajes personalizables y compartirlos con el re
 | Antonio  | H / 55    | Empresario                  | Media   | Feliz        | Móvil      | A       |
 | Juan     | H / 24    | Estudiante                  | Alta    | Estresado    | Web        | A       |
 | Maria    | M / 75    | Jubilada                    | Baja    | Miedo        | Web        | B       |
-| Alberto  | H / 33    | Trabajador con discapacitad | Media   | Racional     |  Web       | B       |
+| Alberto  | H / 33    | Trabajador con discapacidad | Media   | Racional     |  Web       | B       |
 
 ## ![Método UX](img/Survey.png). 4.c Cuestionario SUS
 
